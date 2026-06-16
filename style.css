@@ -42,8 +42,7 @@ a:active {
 }
 
 div.scroll-container {
-  background-color: #333;
+  background-color: MintCream;
   overflow: auto;
   white-space: nowrap;
-  padding: 10px;
 }
