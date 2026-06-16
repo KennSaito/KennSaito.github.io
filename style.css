@@ -21,12 +21,7 @@ div {
 }
 
 a:link {
-  color: #bfffff;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: #bfffff;
+  color: DarkSlateGray;
   background-color: transparent;
   text-decoration: none;
 }
@@ -36,7 +31,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: DarKSlateGray;
+  color: #bfffff;
   background-color: transparent;
   text-decoration: underline;
 }
