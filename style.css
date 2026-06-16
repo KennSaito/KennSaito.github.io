@@ -2,7 +2,13 @@ body {
 	color: green;
 	background-color: lightblue;
 	max-width; 600px;
-	magin: auto;
+	margin: auto;
+}
+
+div {
+  width: 300px;
+  margin: auto;
+  border: 1px solid red;
 }
 
 h1 {
@@ -28,10 +34,4 @@ p4 {
 
 p5 {
   font-family: Papyrus, Fantasy, sans-serif;
-}
-
-div {
-  width: 300px;
-  margin: auto;
-  border: 1px solid red;
 }
