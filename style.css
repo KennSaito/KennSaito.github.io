@@ -21,7 +21,7 @@ div {
 }
 
 a:link {
-  color: DarkSlateGray;
+  color: #bfffff;
   background-color: transparent;
   text-decoration: none;
 }
@@ -36,7 +36,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: #bfffff;
+  color: #DarKSlateGray;
   background-color: transparent;
   text-decoration: underline;
 }
