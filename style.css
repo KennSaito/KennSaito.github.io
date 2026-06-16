@@ -1,5 +1,5 @@
 body {
-  Color: DarkSlateGray;
+  Color: #2F4F4F;
   background-color: HoneyDew; 
 }
 
@@ -21,7 +21,7 @@ div {
 }
 
 a:link {
-  color: DarkSlateGray;
+  color: #2F4F4F;
   background-color: transparent;
   text-decoration: none;
 }
