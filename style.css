@@ -1,6 +1,6 @@
 body {
   Color: DarkSlateGray;
-  background-color: OliveDrab; 
+  background-color: HoneyDew; 
 }
 
 ul {
@@ -12,8 +12,14 @@ p {
 }
 
 div {
-  background-color: HoneyDew;
+  background-color: MintWhite;
   padding: 25px;
   max-width: 700px;
   margin: auto;
+  border-radius: 25px;
+  border: 2px solid #04AA6D;
+}
+
+a {
+  
 }
