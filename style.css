@@ -12,14 +12,31 @@ p {
 }
 
 div {
-  background-color: MintWhite;
+  background-color: MintCream;
   padding: 25px;
   max-width: 700px;
   margin: auto;
   border-radius: 25px;
-  border: 2px solid #04AA6D;
+  border: 2px solid #2F4F4F;
 }
 
-a {
-  
+a:link {
+  color: DarkSlateGray;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #bfffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #568787;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #bfffff;
+  background-color: transparent;
+  text-decoration: underline;
 }
