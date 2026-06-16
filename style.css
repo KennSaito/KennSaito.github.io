@@ -21,12 +21,12 @@ div {
 }
 
 a:link {
-  color: #2F4F4F;
+  color: #338282;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #568787;
+  color: #2F4F4F;
   background-color: transparent;
   text-decoration: underline;
 }
