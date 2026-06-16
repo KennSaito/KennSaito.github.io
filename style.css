@@ -29,3 +29,9 @@ p4 {
 p5 {
   font-family: Papyrus, Fantasy, sans-serif;
 }
+
+div {
+  width: 300px;
+  margin: auto;
+  border: 1px solid red;
+}
