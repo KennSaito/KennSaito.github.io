@@ -30,10 +30,6 @@ div.frame {
   box-shadow: 6px 10px 40px -5px rgba(0, 0, 0, 0.4);
 }
 
-a {
-  font-size: 20px;
-}
-
 a:link {
   color: #338282;
   background-color: transparent;
