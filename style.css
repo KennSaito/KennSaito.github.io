@@ -3,10 +3,6 @@ body {
   background-color: HoneyDew; 
 }
 
-ul {
-  font-size: 20px;
-}
-
 p {
   font-size: 20px;
 }
@@ -18,6 +14,10 @@ div.frame {
   margin: auto;
   border-radius: 25px;
   border: 4px solid #2F4F4F;
+}
+
+a {
+  font-size: 15px;
 }
 
 a:link {
