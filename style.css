@@ -12,6 +12,7 @@ p.paragraphs {
 
 p.links {
   font-size: 17px;
+  text-indent: 0px;
 }
 
 ul {
