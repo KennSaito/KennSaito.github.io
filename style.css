@@ -51,3 +51,11 @@ div.scroll-container {
   overflow: auto;
   white-space: nowrap;
 }
+
+img {
+  border-radius: 25px;
+}
+
+iframe {
+  border-radius: 25px;
+}
