@@ -127,6 +127,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 0;
   font-family: "Lucida Console", "Courier New", monospace;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 /* The dots/bullets/indicators */
