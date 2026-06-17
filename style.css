@@ -50,6 +50,7 @@ div.scroll-container {
   background-color: MintCream;
   overflow: auto;
   white-space: nowrap;
+  border-radius: 10px;
 }
 
 img {
