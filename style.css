@@ -22,6 +22,7 @@ h2.home {
 p.links {
   font-size: 20px;
   text-indent: 0px;
+  display: inline;
 }
 
 ul {
