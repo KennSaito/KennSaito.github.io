@@ -10,8 +10,13 @@ p.paragraphs {
   text-align: justify;
 }
 
-p.links {
+p.bart {
   font-size: 20px;
+  text-indent: 0px;
+}
+
+p.links {
+  font-size: 17px;
   text-indent: 0px;
 }
 
