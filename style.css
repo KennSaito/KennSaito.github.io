@@ -116,6 +116,7 @@ img {vertical-align: middle;}
   bottom: 8px;
   width: 100%;
   text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 /* Number text (1/3 etc) */
@@ -125,6 +126,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   top: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 /* The dots/bullets/indicators */
