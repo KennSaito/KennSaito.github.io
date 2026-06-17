@@ -19,7 +19,7 @@ div.frame {
   margin: auto;
   border-radius: 25px;
   border: 4px solid #2F4F4F;
-  box-shadow: 6px 10px 40px -5px rgba(0, 0, 0, 0.15);
+  box-shadow: 6px 10px 40px -5px rgba(0, 0, 0, 0.4);
 }
 
 a {
