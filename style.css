@@ -83,6 +83,7 @@ img {vertical-align: middle;}
 /* slideshow container */
 .slideshow-container {
   max-width: 600px;
+  max-height: 400px
   position: relative;
   margin: auto;
 }
